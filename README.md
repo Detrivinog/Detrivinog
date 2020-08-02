@@ -28,7 +28,7 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 <img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
 <img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
 &nbsp; <br>
-<emp>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd)</emp><br>
+<em>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd)</em><br>
 
 &nbsp; <br>
 
