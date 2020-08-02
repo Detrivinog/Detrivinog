@@ -25,8 +25,8 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 <code><img align="left" alt="css" witdth="24" height="24" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/></code>[CSS]
 <code><img align="left" alt="markdown" witdth="24" height="24" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/></code>[Markdown]
 <code><img align="left" alt="vscode" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/></code>[Visual Studio Code]
-<code><img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/></code>[Git]
-<code><img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/></code>[Adobe Xd]
+<img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>[Git]
+<img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/>[Adobe Xd]
 
 <br />
 
