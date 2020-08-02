@@ -9,24 +9,24 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin icon" witdth="22px" height="20" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>][linkedin]
-[<img align="left" alt="twitter icon" witdth="22px" height="20" src="https://image.flaticon.com/icons/svg/174/174876.svg"/>][twitter]
-[<img align="left" alt="facebook icon" witdth="22px" height="20" src="https://image.flaticon.com/icons/svg/174/174848.svg"/>][facebook]
-[<img align="left" alt="youtube icon" witdth="22px" height="20" src="https://image.flaticon.com/icons/svg/174/174883.svg"/>][youtube]
+[<img align="left" alt="linkedin icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>][linkedin]
+[<img align="left" alt="twitter icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174876.svg"/>][twitter]
+[<img align="left" alt="facebook icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174848.svg"/>][facebook]
+[<img align="left" alt="youtube icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174883.svg"/>][youtube]
 
 <br />
 
 ## Languages and Tools: 
 
-<code><img align="left" alt="rstudio" witdth="22" height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/></code>
-<code><img align="left" alt="python" witdth="22" height="20" src="https://localist-images.azureedge.net/photos/31583518696354/original/0135374d81d3481dd24228d0deea271b904000a5.png"/></code>
-<code><img align="left" alt="arcgis" witdth="22" height="20" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/></code>
-<code><img align="left" alt="html5" witdth="22" height="20" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/></code>
-<code><img align="left" alt="css" witdth="22" height="20" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/></code>
-<code><img align="left" alt="markdown" witdth="22" height="20" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/></code>
-<code><img align="left" alt="vscode" witdth="22" height="20" src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png"/></code>
-<code><img align="left" alt="git" witdth="22" height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/></code>
-<code><img align="left" alt="adobexd" witdth="22" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/616px-Adobe_XD_CC_icon.svg.png"/></code>
+<code><img align="left" alt="rstudio" witdth="24" height="24" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/></code>
+<code><img align="left" alt="python" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/></code>
+<code><img align="left" alt="arcgis" witdth="24" height="24" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/></code>
+<code><img align="left" alt="html5" witdth="24" height="24" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/></code>
+<code><img align="left" alt="css" witdth="24" height="24" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/></code>
+<code><img align="left" alt="markdown" witdth="24" height="24" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/></code>
+<code><img align="left" alt="vscode" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
+<code><img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/></code>
+<code><img align="left" alt="adobexd" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/616px-Adobe_XD_CC_icon.svg.png"/></code>
 
 <br />
 
