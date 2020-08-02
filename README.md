@@ -30,9 +30,15 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Detrivinog&hide=contribs,prs&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Detrivinog&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Detrivinog&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detrivinog&layout=compact&theme=great-gatsby" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/david-esteban-trivi%C3%B1o-gonzalez-76b02b171/
 [twitter]: https://twitter.com/detrivinog
