@@ -18,15 +18,15 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 
 ## Languages and Tools: 
 
-<code><img align="left" alt="rstudio" witdth="24" height="24" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/></code>[Rstudio]
-<code><img align="left" alt="python" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/></code>[Python]
-<code><img align="left" alt="arcgis" witdth="24" height="24" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/></code>[ArcGIS]
-<code><img align="left" alt="html5" witdth="24" height="24" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/></code>[HTML]
-<code><img align="left" alt="css" witdth="24" height="24" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/></code>[CSS]
-<code><img align="left" alt="markdown" witdth="24" height="24" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/></code>[Markdown]
-<code><img align="left" alt="vscode" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/></code>[Visual Studio Code]
-<img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>[Git]
-<img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/>[Adobe Xd]
+<img align="left" alt="rstudio" witdth="24" height="24" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/>Rstudio
+<img align="left" alt="python" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>Python
+<img align="left" alt="arcgis" witdth="24" height="24" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/>[ArcGIS]
+<img align="left" alt="html5" witdth="24" height="24" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/>HTML
+<img align="left" alt="css" witdth="24" height="24" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/>CSS
+<img align="left" alt="markdown" witdth="24" height="24" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/>Markdown
+<img align="left" alt="vscode" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>Visual Studio Code
+<img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>Git
+<img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/>Adobe Xd
 
 <br />
 
