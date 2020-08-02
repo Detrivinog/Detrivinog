@@ -27,10 +27,10 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 <img align="left" alt="vscode" witdth="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="git" witdth="24" height="24" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
 <img align="left" alt="adobexd" witdth="24" height="24" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
-<emp>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd)</emp>
+&nbsp; <br>
+<emp>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd)</emp><br>
 
-<br>
-
+&nbsp; <br>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
