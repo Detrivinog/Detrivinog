@@ -26,9 +26,10 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 <img align="left" alt="markdown" witdth="30" height="30" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/>
 <img align="left" alt="vscode" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="git" witdth="30" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
-<img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
+<img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> 
+<img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/> <br>
 &nbsp; <br>
-<em>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd)</em><br>
+<em>(RStudio, Python, ArcGIS, HTML, CSS, Markdown, VS Code, Git, Adobe Xd, MySQL)</em><br>
 
 &nbsp; <br>
 
