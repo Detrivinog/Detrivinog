@@ -44,6 +44,6 @@ Hi, I'm David Triviño, a forestal engineer with interests in ecology, web progr
 </a>
 
 [linkedin]: https://www.linkedin.com/in/david-esteban-trivi%C3%B1o-gonzalez-76b02b171/
-[twitter]: https://twitter.com/detrivinog
+[twitter]: https://twitter.com/DavidTrivinoG
 [facebook]: https://www.facebook.com/david.e.trivino/
 [youtube]: https://www.youtube.com/channel/UCL9mbgEcnXa751bTrlm39GQ
