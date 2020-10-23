@@ -23,7 +23,7 @@ Hi, I'm David Triviño, forestry engineer, passionate about programming, softwar
 <img align="left" alt="css" witdth="30" height="30" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
 <img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
-<img align="left" alt="mongo" witdth="30" height="30" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png"/> <br>
+<img align="left" alt="mongo" witdth="30" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/> <br>
 
 &nbsp; <br>
 <em>(R, Python, HTML, CSS, Java, MySQL, MongoDB)</em><br>
