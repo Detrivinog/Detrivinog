@@ -22,8 +22,8 @@ Hi, I'm David Triviño, forestry engineer, passionate about programming, softwar
 <img align="left" alt="html5" witdth="30" height="30" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/>
 <img align="left" alt="css" witdth="30" height="30" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
-<img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/> <br>
-<img align="left" alt="mongo" witdth="30" height="30" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png"/> <br>
+<img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
+<img align="left" alt="mongo" witdth="30" height="30" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png"/> <br>
 
 &nbsp; <br>
 <em>(R, Python, HTML, CSS, Java, MySQL, MongoDB)</em><br>
@@ -35,7 +35,7 @@ Hi, I'm David Triviño, forestry engineer, passionate about programming, softwar
 <img align="left" alt="markdown" witdth="30" height="30" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/>
 <img align="left" alt="vscode" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="git" witdth="30" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
-<img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> 
+<img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
 
 &nbsp; <br>
 <em>(ArcGIS, Markdown, VS Code, Git, Adobe Xd)</em><br>
