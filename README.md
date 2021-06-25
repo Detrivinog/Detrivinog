@@ -1,11 +1,10 @@
 ## Hi there, I'm David!
 
-Hi, I'm David Triviño, forestry engineer, passionate about programming, software development, data analysis and problems as opportunities for change. I believe in education and technology as engines of social transformation. I like to ride a bike, read, write and laugh.
+Hi, I'm David Triviño, I'm a forestry engineer specialized in data science, passionate about software development and blockchain. I believe in education and technology as engines of social transformation. I like to ride bike, read literature, write poetry and laugh.
 
-- I'm currently working on myself (learning everyday)
-- I'm currently learning programing and data science
-- I am looking to work in software-web development
-- 2020 Goals: Develop my own website and application
+- I'm currently working on Data Science
+- I'm learning programing and data science
+- 2021 Goals: Develop my own website and application
 
 ## Connect with me:
 
