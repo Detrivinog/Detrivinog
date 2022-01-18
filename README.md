@@ -1,6 +1,6 @@
 ## Hi there, I'm David!
 
-Hi, I'm David Triviño, I'm a forestry engineer specialized in data science, passionate about software development and blockchain. I believe in education and technology as engines of social transformation. I like to ride bike, read literature, write poetry and laugh.
+Data Scientist and BSc in Forest Engineering. Experience developing analytics solutions through data ingestion, processing, cleaning and visualizations. Various academic projects focused on Machine and deep learning models, spatial analysis and web development. I'm currently working as data analyst in Media Metrix department in Basica S.A.S constructing a BI solution for CCC (Central Cervecera of Colombia). Knowledge in Python, R, Java, SQL, PowerBI, web development (HTML, CSS, Javascript) and databases. Engineer with analytical skills, critical thinking, adaptability, and resilience. Interested in software and Blockchain development.
 
 - I'm currently working on Data Science
 - I'm learning programing and data science
