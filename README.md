@@ -9,7 +9,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 ## Connect with me:
 
 
-[<img align="left" alt="linkedin icon" witdth="30px" height="30" src="./img/linkedIn-logo.svg"/>][linkedin]
+[<img align="left" alt="linkedin icon" witdth="30px" height="30" src="./img/linkedin logo icon.svg"/>][linkedin]
 [<img align="left" alt="twitter icon" witdth="30px" height="30" src="./img/twitter-logo.svg"/>][twitter]
 [<img align="left" alt="facebook icon" witdth="30px" height="30" src="./img/facebook-logo-2021.svg"/>][facebook]
 [<img align="left" alt="youtube icon" witdth="30px" height="30" src="./img/youtube-logo-2020.svg"/>][youtube]
@@ -21,7 +21,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 <img align="left" alt="python" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
 <img align="left" alt="javascript" witdth="30" height="30" src="./img/js.svg"/>
-<img align="left" alt="html" witdth="30" height="30" src="./img/html.svg"/>
+<img align="left" alt="html" witdth="30" height="30" src="./img/html.png"/>
 <img align="left" alt="css" witdth="30" height="30" src="./img/css.svg"/>
 <img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
 <img align="left" alt="mongo" witdth="30" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/> <br>
@@ -33,7 +33,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 
 
 <img align="left" alt="arcgis" witdth="30" height="30" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/>
-<img align="left" alt="markdown" witdth="30" height="30" src="./img/markdown.svg"/>
+<img align="left" alt="markdown" witdth="30" height="30" src="./img/rmarkdown.svg"/>
 <img align="left" alt="vscode" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="git" witdth="30" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
 <img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
