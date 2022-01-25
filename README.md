@@ -20,7 +20,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 <img align="left" alt="rstudio" witdth="30" height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/>
 <img align="left" alt="python" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
-<img align="left" alt="javascript" witdth="30" height="30" src="./img/javascript.png"/>
+<img align="left" alt="javascript" witdth="30" height="30" src="./img/Javascript.png"/>
 <img align="left" alt="html" witdth="30" height="30" src="./img/html.png"/>
 <img align="left" alt="css" witdth="30" height="30" src="./img/css.svg"/>
 <img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
