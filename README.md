@@ -8,30 +8,31 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>][linkedin]
-[<img align="left" alt="twitter icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174876.svg"/>][twitter]
-[<img align="left" alt="facebook icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174848.svg"/>][facebook]
-[<img align="left" alt="youtube icon" witdth="22px" height="22" src="https://image.flaticon.com/icons/svg/174/174883.svg"/>][youtube]
+[<img align="left" alt="linkedin icon" witdth="22px" height="22" src="./img/linkedln-logo.svg"/>][linkedin]
+[<img align="left" alt="twitter icon" witdth="22px" height="22" src="./img/twitter-logo.svg"/>][twitter]
+[<img align="left" alt="facebook icon" witdth="22px" height="22" src="./img/facebook-logo-2021.svg"/>][facebook]
+[<img align="left" alt="youtube icon" witdth="22px" height="22" src="./img/youtube-logo-2020.svg"/>][youtube]
 
 <br />
 
 ## Languages: 
 <img align="left" alt="rstudio" witdth="30" height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/>
 <img align="left" alt="python" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-<img align="left" alt="html5" witdth="30" height="30" src="https://image.flaticon.com/icons/svg/1216/1216733.svg"/>
-<img align="left" alt="css" witdth="30" height="30" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
+<img align="left" alt="javascript" witdth="30" height="30" src="./img/js.svg"/>
+<img align="left" alt="html" witdth="30" height="30" src="./img/html.svg"/>
+<img align="left" alt="css" witdth="30" height="30" src="./img/css.svg"/>
 <img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
 <img align="left" alt="mongo" witdth="30" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/> <br>
 
 &nbsp; <br>
-<em>(R, Python, HTML, CSS, Java, MySQL, MongoDB)</em><br>
+<em>(R, Python, Java, Javascript, HTML, CSS, MySQL, MongoDB)</em><br>
 
 ## Tools:
 
 
 <img align="left" alt="arcgis" witdth="30" height="30" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/>
-<img align="left" alt="markdown" witdth="30" height="30" src="https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png"/>
+<img align="left" alt="markdown" witdth="30" height="30" src="./img/markdown.svg"/>
 <img align="left" alt="vscode" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="git" witdth="30" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
 <img align="left" alt="adobexd" witdth="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png"/> <br>
@@ -51,7 +52,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detrivinog&layout=compact&theme=great-gatsby" />
 </a>
 
-[linkedin]: https://www.linkedin.com/in/david-esteban-trivi%C3%B1o-gonzalez-76b02b171/
+[linkedin]: https://www.linkedin.com/in/davidtrivinog/
 [twitter]: https://twitter.com/DavidTrivinoG
 [facebook]: https://www.facebook.com/david.e.trivino/
 [youtube]: https://www.youtube.com/channel/UCL9mbgEcnXa751bTrlm39GQ
