@@ -8,10 +8,11 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin icon" witdth="22px" height="22" src="./img/linkedln-logo.svg"/>][linkedin]
-[<img align="left" alt="twitter icon" witdth="22px" height="22" src="./img/twitter-logo.svg"/>][twitter]
-[<img align="left" alt="facebook icon" witdth="22px" height="22" src="./img/facebook-logo-2021.svg"/>][facebook]
-[<img align="left" alt="youtube icon" witdth="22px" height="22" src="./img/youtube-logo-2020.svg"/>][youtube]
+
+[<img align="left" alt="linkedin icon" witdth="30px" height="30" src="./img/linkedIn-logo.svg"/>][linkedin]
+[<img align="left" alt="twitter icon" witdth="30px" height="30" src="./img/twitter-logo.svg"/>][twitter]
+[<img align="left" alt="facebook icon" witdth="30px" height="30" src="./img/facebook-logo-2021.svg"/>][facebook]
+[<img align="left" alt="youtube icon" witdth="30px" height="30" src="./img/youtube-logo-2020.svg"/>][youtube]
 
 <br />
 
