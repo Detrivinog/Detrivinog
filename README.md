@@ -3,11 +3,10 @@
 Data Scientist and BSc in Forest Engineering. Experience developing analytics solutions through data ingestion, processing, cleaning and visualizations. Various academic projects focused on Machine and deep learning models, spatial analysis and web development. I'm currently working as data analyst in Media Metrix department in Basica S.A.S constructing a BI solution for CCC (Central Cervecera of Colombia). Knowledge in Python, R, Java, SQL, PowerBI, web development (HTML, CSS, Javascript) and databases. Engineer with analytical skills, critical thinking, adaptability, and resilience. Interested in software and Blockchain development.
 
 - I'm currently working on Data Science
-- I'm learning programing and data science
-- 2021 Goals: Develop my own website and application
+- I'm learning web programing and data science
+- 2022 Goals: Develop my own website and application
 
 ## Connect with me:
-
 
 [<img align="left" alt="linkedin icon" witdth="30px" height="30" src="./img/linkedin logo icon.svg"/>][linkedin]
 [<img align="left" alt="twitter icon" witdth="30px" height="30" src="./img/twitter-logo.svg"/>][twitter]
@@ -16,7 +15,7 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 
 <br />
 
-## Languages: 
+## Languages:
 <img align="left" alt="rstudio" witdth="30" height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rstudio-icon.png"/>
 <img align="left" alt="python" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 <img align="left" alt="java" witdth="30" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
@@ -24,13 +23,12 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 <img align="left" alt="html" witdth="30" height="30" src="./img/html.png"/>
 <img align="left" alt="css" witdth="30" height="30" src="./img/css.svg"/>
 <img align="left" alt="mysql" witdth="30" height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"/>
-<img align="left" alt="mongo" witdth="30" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/> <br>
+<img align="left" alt="mongo" witdth="30" height="30" src="./img/mongodb-logo.svg"/> <br>
 
 &nbsp; <br>
 <em>(R, Python, Java, Javascript, HTML, CSS, MySQL, MongoDB)</em><br>
 
 ## Tools:
-
 
 <img align="left" alt="arcgis" witdth="30" height="30" src="https://www.gis247.com/images/2k19/timings/ArcGIS%20Square%20180px.png"/>
 <img align="left" alt="markdown" witdth="30" height="30" src="./img/rmarkdown.png"/>
