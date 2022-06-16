@@ -58,8 +58,8 @@ Data Scientist and BSc in Forest Engineering. Experience developing analytics so
 
 *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=Detrivinog&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Anurag's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detrivinog&layout=compact&theme=great-gatsby" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Detrivinog&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Detrivinog&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/davidtrivinog/
 [twitter]: https://twitter.com/DavidTrivinoG
