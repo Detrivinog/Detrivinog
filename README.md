@@ -1,12 +1,8 @@
 ## Hi there, I'm David!
 
-I am a Data Scientist with a BSc in Forest Engineering. I have extensive experience developing analytics solutions by processing, cleaning, and visualizing data. My academic background includes various projects focused on Machine and Deep Learning models, spatial analysis, and web development.
+I am a Data Scientist with a BSc in Forest Engineering and a Master’s in Data Science, specializing in developing analytical solutions from data processing to visualization with tools like PowerBI, Looker, and Dash. My experience spans Machine and Deep Learning, spatial analysis, and web development, with a strong focus on automation and cloud services.
 
-- I'm studying a Master degree in Data Science 👨‍💻
-- I love literature, nature and games 📚🌳🎮
-- I'm looking to cultivate the spirit through the arts 🎨
-- In a few words, I want to be happy 😁
-
+Passionate about emerging technologies like AI and blockchain, I also enjoy literature, nature, and games 📚🌳🎮. Creativity through the arts 🎨 is important to me, and my ultimate goal is to find happiness in both work and life 😁.
 
 
 ## Connect with me
